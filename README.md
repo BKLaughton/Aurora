@@ -25,27 +25,18 @@ Yay, I found the snow village! There are lots of people up here, and none of the
 
 ## Principles
 
-No fighting. 
-Several explorable settlements. 
-Myst style puzzles to proceed
-RPG style questing for NPCs
-Point and click style interactions with items and NPCs
-Narrative and side quests.
-Menu, inventory, party?
-Interlinking skill routes.
+* No fighting. 
+* Several explorable settlements. 
+* Myst style puzzles to proceed
+* RPG style questing for NPCs
+* Point and click style interactions with items and NPCs
+* Narrative and side quests.
+* Menu, inventory, party?
+* Interlinking skill routes.
 
-## References
+## Concept Info
 
-Reference video:
-
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=sIayxqk0Ees" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=sIayxqk0Ees"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-[link](https://www.youtube.com/watch?v=sIayxqk0Ees)
+[Reference video](https://www.youtube.com/watch?v=sIayxqk0Ees)
 
 Some time soon, as little as 80 years, perhaps 1000 years, the magnetic poles will reverse. This process happens once every 500 million years, and takes anywhere from as little as 100 years to 1000s of years, we’re not sure.
 
